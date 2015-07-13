@@ -1,0 +1,1140 @@
+US4659716_0001	T	T1	G 22 118	8-(halo)-substituted 6,11-dihydro-11-(4-piperidylidene)-5H-benzo[5,6]cyclohepta[1,2-b]pyridin es
+US4659716_0001	T	T2	G 172 297	7- and/or 8-(halo or trifluoromethyl)-substituted-6,11-dihydro-11-(4-piperidylidene)-5H-benzo[5 ,6]cyclohepta[1,2-b]pyridines
+US4659716_0001	T	T3	G 2007 2068	11-(4-piperidylidene)-5H-benzo[5,6]cyclohepta[1,2-b]pyridines
+US4659716_0001	T	T4	G 2316 2331	trifluoromethyl
+US4659716_0001	T	T5	G 2389 2404	trifluoromethyl
+US4659716_0001	T	T6	Disease 2840 2858	allergic reactions
+US4659716_0001	T	T7	MOA 7 21	Antihistaminic
+US4659716_0001	T	T8	MOA 363 388	antihistaminic properties
+US4659716_0001	T	T9	MOA 408 430	no sedative properties
+US4659716_0001	T	T10	MOA 2592 2615	antihistaminic activity
+US4659716_0001	T	T11	MOA 2624 2661	central nervous system (CNS) activity
+US4659716_0002	T	T1	M 93 105	hydrochloric
+US4659716_0002	T	T2	M 107 122	methanesulfonic
+US4659716_0002	T	T3	M 124 132	sulfuric
+US4659716_0002	T	T4	M 134 140	acetic
+US4659716_0002	T	T5	M 142 148	maleic
+US4659716_0002	T	T6	M 150 157	fumaric
+US4659716_0002	T	T7	M 159 169	phosphoric
+US4659716_0002	T	T8	M 484 500	sodium hydroxide
+US4659716_0002	T	T9	M 502 521	potassium carbonate
+US4659716_0002	T	T10	M 523 530	ammonia
+US4659716_0002	T	T11	M 536 554	sodium bicarbonate
+US4659716_0002	T	T12	M 1055 1060	water
+US4659716_0002	T	T13	M 1062 1069	ethanol
+US4659716_0002	T	T14	M 1742 1758	cyanogen bromide
+US4659716_0002	T	T15	M 2072 2090	2-cyano-3-picoline
+US4659716_0002	T	T16	M 2140 2152	benzaldehyde
+US4659716_0002	T	T17	M 2207 2225	potassium butoxide
+US4659716_0002	T	T18	M 2237 2275	ortho-phenethenyl pyridine carboxamide
+US4659716_0002	T	T19	M 2441 2477	ortho-phenethyl pyridine carboxamide
+US4659716_0002	T	T20	M 2563 2602	otho-phenethyl pyridine carboxylic acid
+US4659716_0002	T	T21	M 2685 2700	oxalyl chloride
+US4659716_0002	T	T22	M 2705 2725	aluminum trichloride
+US4659716_0002	T	T23	M 2981 2994	sulfuric acid
+US4659716_0002	T	T24	M 3201 3225	2-cyano-3-methylpyridine
+US4659716_0002	T	T25	M 3325 3338	sulfuric acid
+US4659716_0002	T	T26	M 3355 3368	sulfuric acid
+US4659716_0002	T	T27	M 3380 3391	acetic acid
+US4659716_0002	T	T28	M 3502 3517	t-butyl alcohol
+US4659716_0002	T	T29	M 3519 3535	t-butyl chloride
+US4659716_0002	T	T30	M 3537 3552	t-butyl bromide
+US4659716_0002	T	T31	M 3554 3568	t-butyl iodide
+US4659716_0002	T	T32	M 3570 3581	isobutylene
+US4659716_0002	T	T33	M 3853 3868	t-butyl alcohol
+US4659716_0002	T	T34	M 4270 4294	3-chloro-benzyl chloride
+US4659716_0002	T	T35	M 4296 4319	3-fluoro-benzyl bromide
+US4659716_0002	T	T36	M 4321 4349	3,4-dichloro-benzyl chloride
+US4659716_0002	T	T37	M 4351 4375	4-fluoro-benzyl chloride
+US4659716_0002	T	T38	M 4377 4410	3-trifluoromethyl-benzyl chloride
+US4659716_0002	T	T39	M 4412 4434	3-bromobenzyl chloride
+US4659716_0002	T	T40	M 4515 4530	n-butyl lithium
+US4659716_0002	T	T41	M 4534 4548	tetrahyrofuran
+US4659716_0002	T	T42	M 4880 4893	diethyl ether
+US4659716_0002	T	T43	M 5077 5102	toluene sulfonyl chloride
+US4659716_0002	T	T44	M 5106 5114	pyridine
+US4659716_0002	T	T45	M 5116 5131	oxalyl chloride
+US4659716_0002	T	T46	M 5135 5143	pyridine
+US4659716_0002	T	T47	M 5784 5791	toluene
+US4659716_0002	T	T48	M 5795 5810	tetrahydrofuran
+US4659716_0002	T	T49	M 6239 6251	cycloheptene
+US4659716_0002	T	T50	M 9035 9054	magnesium carbonate
+US4659716_0002	T	T51	M 9056 9074	magnesium stearate
+US4659716_0002	T	T52	M 10064 10069	water
+US4659716_0002	T	T53	M 10073 10078	water
+US4659716_0002	T	T54	M 10079 10095	propylene glycol
+US4659716_0002	T	T55	M 10318 10323	water
+US4659716_0002	T	T56	M 11876 11881	water
+US4659716_0002	T	T57	M 11892 11897	water
+US4659716_0002	T	T58	M 11899 11906	ethanol
+US4659716_0002	T	T59	M 11908 11917	glycerine
+US4659716_0002	T	T60	M 11919 11935	propylene glycol
+US4659716_0002	T	T61	M 12130 12137	ethanol
+US4659716_0002	T	T62	M 15166 15171	water
+US4659716_0002	T	T63	M 16235 16318	8-chloro-6,11-dihydro-11-(4-piperidylidene)-5H-benzo[5,6]cyclohepta[1,2-b] pyridine
+US4659716_0002	T	T64	M 16336 16419	8-fluoro-6,11 -dihydro-11-(4-piperidylidene)-5H-benzo[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0002	T	T65	M 18199 18210	Acetic Acid
+US4659716_0002	T	T66	M 18225 18236	acetic acid
+US4659716_0002	T	T67	M 18372 18383	acetic acid
+US4659716_0002	T	T68	M 18396 18409	phenylquinone
+US4659716_0002	T	T69	M 18476 18487	acetic acid
+US4659716_0002	T	T70	M 18661 18672	acetic acid
+US4659716_0002	T	T71	M 19742 19748	Acetic
+US4659716_0002	T	T72	D 1742 1758	cyanogen bromide
+US4659716_0002	T	T73	D 9089 9096	lactose
+US4659716_0002	T	T74	D 9144 9159	methylcellulose
+US4659716_0002	T	T75	D 9161 9191	sodium carboxymethyl-cellulose
+US4659716_0002	T	T76	D 14949 14958	histamine
+US4659716_0002	T	T77	D 15459 15465	saline
+US4659716_0002	T	T78	D 15556 15562	saline
+US4659716_0002	T	T79	D 15580 15605	histamine dihydrochloride
+US4659716_0002	T	T80	D 15964 15973	histamine
+US4659716_0002	T	T81	D 17160 17169	histamine
+US4659716_0002	T	T82	D 17358 17383	histamine dihydrochloride
+US4659716_0002	T	T83	D 17559 17568	histamine
+US4659716_0002	T	T84	D 17625 17634	histamine
+US4659716_0002	T	T85	D 17717 17730	Physostigmine
+US4659716_0002	T	T86	D 17746 17759	physostigmine
+US4659716_0002	T	T87	D 17889 17913	Physostigmine salicylate
+US4659716_0002	T	T88	D 18083 18096	physostigmine
+US4659716_0002	T	T89	D 18152 18165	physostigmine
+US4659716_0002	T	T90	D 19333 19346	physostigmine
+US4659716_0002	T	T91	D 19725 19738	Physostigmine
+US4659716_0002	T	T92	B 4550 4553	THF
+US4659716_0002	T	T93	B 4875 4878	THF
+US4659716_0002	T	T94	F 2551 2554	KOH
+US4659716_0002	T	T95	F 3102 3105	NH3
+US4659716_0002	T	T96	F 5056 5061	POCl3
+US4659716_0002	T	T97	F 5063 5068	SOCl2
+US4659716_0002	T	T98	F 5070 5075	P2 O5
+US4659716_0002	T	T99	F 5266 5271	POCl3
+US4659716_0002	T	T100	F 6109 6112	HCl
+US4659716_0002	T	T101	F 6647 6649	HF
+US4659716_0002	T	T102	F 6650 6653	BF3
+US4659716_0002	T	T103	F 6655 6664	CF3 SO3 H
+US4659716_0002	T	T104	F 6666 6675	CH3 SO3 H
+US4659716_0002	T	T105	F 6676 6679	BF3
+US4659716_0002	T	T106	F 6770 6777	CH2 Cl2
+US4659716_0002	T	T107	F 6867 6869	HF
+US4659716_0002	T	T108	F 6870 6873	BF3
+US4659716_0002	T	T109	F 6975 6977	HF
+US4659716_0002	T	T110	F 7159 7168	CF3 SO3 H
+US4659716_0002	T	T111	F 7491 7493	HF
+US4659716_0002	T	T112	F 7494 7497	BF3
+US4659716_0002	T	T113	F 7542 7544	HF
+US4659716_0002	T	T114	F 7704 7707	BF3
+US4659716_0002	T	T115	F 7950 7959	CF3 SO3 H
+US4659716_0002	T	T116	F 7963 7965	HF
+US4659716_0002	T	T117	F 7966 7969	BF3
+US4659716_0002	T	T118	G 2237 2275	ortho-phenethenyl pyridine carboxamide
+US4659716_0002	T	T119	G 2348 2359	noble metal
+US4659716_0002	T	T120	G 2363 2378	carbon catalyst
+US4659716_0002	T	T121	G 2441 2477	ortho-phenethyl pyridine carboxamide
+US4659716_0002	T	T122	G 2563 2602	otho-phenethyl pyridine carboxylic acid
+US4659716_0002	T	T123	G 2802 2818	Grignard reagent
+US4659716_0002	T	T124	G 2835 2860	4-halo-N-alkyl-piperidine
+US4659716_0002	T	T125	G 2958 2977	polyphosphoric acid
+US4659716_0002	T	T126	G 3112 3137	4-halo-N-alkyl-piperidine
+US4659716_0002	T	T127	G 3269 3292	tertiary butyl compound
+US4659716_0002	T	T128	G 3444 3468	tertiary butyl compounds
+US4659716_0002	T	T129	G 3644 3664	t-butyl carboxamides
+US4659716_0002	T	T130	G 3670 3685	cyano compounds
+US4659716_0002	T	T131	G 4028 4088	3 and/or 4-halo or trifluoromethyl-substituted benzyl halide
+US4659716_0002	T	T132	G 4222 4236	benzyl halides
+US4659716_0002	T	T133	G 4484 4506	alkyl lithium compound
+US4659716_0002	T	T134	G 5228 5234	xylene
+US4659716_0002	T	T135	G 5636 5652	Grignard reagent
+US4659716_0002	T	T136	G 5683 5707	1-alkyl-4-halopiperidine
+US4659716_0002	T	T137	G 5777 5782	ether
+US4659716_0002	T	T138	G 9076 9080	talc
+US4659716_0002	T	T139	G 9082 9087	sugar
+US4659716_0002	T	T140	G 9098 9104	pectin
+US4659716_0002	T	T141	G 9106 9113	dextrin
+US4659716_0002	T	T142	G 9115 9121	starch
+US4659716_0002	T	T143	G 9123 9130	gelatin
+US4659716_0002	T	T144	G 9132 9142	tragacanth
+US4659716_0002	T	T145	G 9144 9159	methylcellulose
+US4659716_0002	T	T146	G 9161 9191	sodium carboxymethyl-cellulose
+US4659716_0002	T	T147	G 9718 9739	fatty acid glycerides
+US4659716_0002	T	T148	G 10198 10217	polyethylene glycol
+US4659716_0002	T	T149	G 10613 10628	methylcellulose
+US4659716_0002	T	T150	G 10630 10659	sodium carboxymethylcellulose
+US4659716_0002	T	T151	MOA 14746 14760	antihistaminic
+US4659716_0002	T	T152	MOA 14777 14802	antihistaminic properties
+US4659716_0002	T	T153	MOA 16988 17011	antihistaminic activity
+US4659716_0002	T	T154	MOA 19674 19697	Antihistaminic Activity
+US4659716_0002	T	T155	MOA 19698 19710	CNS Activity
+US4659716_0003	T	T1	M 3155 3208	N-(1,1-Dimethylethyl)-3-methyl-2-pyridine carboxamide
+US4659716_0003	T	T2	M 3209 3234	2-cyano-3-methyl pyridine
+US4659716_0003	T	T3	M 3321 3335	sulphuric acid
+US4659716_0003	T	T4	M 3475 3480	water
+US4659716_0003	T	T5	M 3504 3511	toluene
+US4659716_0003	T	T6	M 3568 3575	ammonia
+US4659716_0003	T	T7	M 3639 3646	toluene
+US4659716_0003	T	T8	M 3714 3721	toluene
+US4659716_0003	T	T9	M 3745 3750	water
+US4659716_0003	T	T10	M 3767 3774	toluene
+US4659716_0003	T	T11	M 3790 3843	N-(1,1-dimethylethyl)-3-methyl-2-pyridine carboxamide
+US4659716_0003	T	T12	M 3974 4046	3-[2-(3-Fluorophenyl)ethyl]-N-(1,1-dimethylethyl)-2-pyridine carboxamide
+US4659716_0003	T	T13	M 4047 4062	Tetrahydrofuran
+US4659716_0003	T	T14	M 4076 4129	N-(1,1-dimethylethyl)-3-methyl-2-pyridine carboxamide
+US4659716_0003	T	T15	M 4214 4228	n-butyllithium
+US4659716_0003	T	T16	M 4275 4289	n-butyllithium
+US4659716_0003	T	T17	M 4325 4339	Sodium bromide
+US4659716_0003	T	T18	M 4366 4389	3-fluoro-benzyl bromide
+US4659716_0003	T	T19	M 4444 4459	tetrahydrofuran
+US4659716_0003	T	T20	M 4584 4589	water
+US4659716_0003	T	T21	M 4657 4672	sodium sulphate
+US4659716_0003	T	T22	M 4739 4811	3-[2-(3-fluorophenyl)ethyl]-N-(1,1-dimethylethyl)-2-pyridine carboxamide
+US4659716_0003	T	T23	M 4833 4884	3-[2-(3-Fluorophenyl)ethyl]-2-pyridine-carbonitrile
+US4659716_0003	T	T24	M 4899 4971	3-[2-(3-fluorophenyl)ethyl]-N-(1,1-dimethylethyl)-2-pyridine carboxamide
+US4659716_0003	T	T25	M 5183 5188	water
+US4659716_0003	T	T26	M 5283 5302	potassium carbonate
+US4659716_0003	T	T27	M 5334 5347	ethyl acetate
+US4659716_0003	T	T28	M 5468 5475	pentane
+US4659716_0003	T	T29	M 5537 5611	(1-Methyl-4-piperidinyl)[3-[2-(3-fluorophenyl)ethyl]-2-pyridinyl]methanone
+US4659716_0003	T	T30	M 5629 5680	3-[2-(3-fluorophenyl)ethyl]-2-pyridine carbonitrile
+US4659716_0003	T	T31	M 5772 5808	N-methylpiperidyl magnesium chloride
+US4659716_0003	T	T32	M 6031 6048	hydrochloric acid
+US4659716_0003	T	T33	M 6186 6198	ethylacetate
+US4659716_0003	T	T34	M 6349 6440	8-Fluoro-11-(1-methyl-4-piperidylidene)-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0003	T	T35	M 6456 6533	(1-methyl-4-piperidinyl)[3-[2-(3-fluorophenyl)ethyl]-2-piperidinyl]methano ne
+US4659716_0003	T	T36	M 6589 6618	trifluoromethanesulfonic acid
+US4659716_0003	T	T37	M 6740 6759	potassium hydroxide
+US4659716_0003	T	T38	M 6791 6804	ethyl acetate
+US4659716_0003	T	T39	M 6810 6823	ethyl acetate
+US4659716_0003	T	T40	M 7026 7124	8-Fluoro-11(1-ethoxycarbonyl-4-piperidylidene)-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0003	T	T41	M 7151 7243	8-fluoro-11-(1-methyl-4-piperidylidene)-6,11-dihydro-5H-benzo[5,6]cyclohep ta[1,2-b]pyridine
+US4659716_0003	T	T42	M 7266 7279	triethylamine
+US4659716_0003	T	T43	M 7304 7311	toluene
+US4659716_0003	T	T44	M 7368 7386	ethylchloroformate
+US4659716_0003	T	T45	M 7631 7638	pentane
+US4659716_0003	T	T46	M 7714 7797	8-Fluoro-11-(4-piperidylidene)-6,11-dihydro-5H-benzo-[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0003	T	T47	M 7799 7899	8-Fluoro-11-(1-ethoxycarbonyl-4-piperidylidene)-6,11-dihydro-5H-benzo[5,6]c yclohepta[1,2-b]pyridine
+US4659716_0003	T	T48	M 7961 7968	ethanol
+US4659716_0003	T	T49	M 7969 7974	water
+US4659716_0003	T	T50	M 8100 8113	ethyl acetate
+US4659716_0003	T	T51	D 323 336	physostigmine
+US4659716_0003	T	T52	D 5027 5050	phosphorous oxychloride
+US4659716_0003	T	T53	B 5719 5722	THF
+US4659716_0003	T	T54	F 3259 3265	t-BuOH
+US4659716_0003	T	T55	F 7937 7940	KOH
+US4659716_0003	T	T56	F 8162 8169	Na2 SO4
+US4659716_0003	T	T57	MOA 118 132	antihistamines
+US4659716_0004	T	T1	M 0 42	3-[2-(3-Fluorophenyl)ethenyl]-picolinamide
+US4659716_0004	T	T2	M 57 75	2-cyano-3-picoline
+US4659716_0004	T	T3	M 98 118	3-fluorobenzaldehyde
+US4659716_0004	T	T4	M 155 170	tetrahydrofuran
+US4659716_0004	T	T5	M 254 274	potassium t-butoxide
+US4659716_0004	T	T6	M 1000 1007	toluene
+US4659716_0004	T	T7	M 1178 1185	toluene
+US4659716_0004	T	T8	M 1293 1333	3-[2-(3-Fluorophenyl)ethyl]-picolinamide
+US4659716_0004	T	T9	M 1384 1426	3-[2-(3-fluorophenyl)ethenyl]-picolinamide
+US4659716_0004	T	T10	M 1451 1462	acetic acid
+US4659716_0004	T	T11	M 1801 1841	3-[2-(3-fluorophenyl)ethyl]-picolinamide
+US4659716_0004	T	T12	M 2008 2050	3-[2-(3-Fluorophenyl)ethyl]-picolinic acid
+US4659716_0004	T	T13	M 2081 2121	3-[2-(3-fluorophenyl)ethyl]-picolinamide
+US4659716_0004	T	T14	M 2146 2153	ethanol
+US4659716_0004	T	T15	M 2766 2834	8-Fluoro-6,11-dihydro-5H-benzo-[5,6]-cyclohepta[1,2-b]pyridin-11-one
+US4659716_0004	T	T16	M 2863 2905	3-[2-(3-fluorophenyl)ethyl]-picolinic acid
+US4659716_0004	T	T17	M 2931 2948	tetrachloroethane
+US4659716_0004	T	T18	M 3047 3061	Oxalylchloride
+US4659716_0004	T	T19	M 3757 3764	Benzene
+US4659716_0004	T	T20	M 4025 4032	benzene
+US4659716_0004	T	T21	M 4068 4075	benzene
+US4659716_0004	T	T22	M 4324 4337	butyl acetate
+US4659716_0004	T	T23	M 4441 4454	ethyl acetate
+US4659716_0004	T	T24	M 4568 4661	1-Methyl-4-[8-fluoro-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridin-11-yl]piperidin-11-OL
+US4659716_0004	T	T25	M 4712 4779	11-oxo-8-fluoro-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0004	T	T26	M 4948 4976	4-chloro-N-methyl-piperidine
+US4659716_0004	T	T27	M 5643 5658	n-butyl acetate
+US4659716_0004	T	T28	M 5745 5758	ethyl acetate
+US4659716_0004	T	T29	M 5977 5990	ethyl acetate
+US4659716_0004	T	T30	M 6100 6113	ethyl acetate
+US4659716_0004	T	T31	M 6191 6281	8-Fluoro-11-(1-methyl-4-piperidylidene)-6,11-dihydro-5H-benzo[5,6]cylohepta[1,2-b]pyridine
+US4659716_0004	T	T32	M 6311 6412	1-methyl-4-[8-fluoro-6,11-dihydro-11-hydroxy-5H-benzo-[5,6]cyclohepta[1,2- b]pyridin-11-yl]piperidine
+US4659716_0004	T	T33	M 7137 7154	diisopropyl ether
+US4659716_0004	T	T34	M 7212 7223	maleic acid
+US4659716_0004	T	T35	M 7259 7276	diisopropyl ether
+US4659716_0004	T	T36	M 7479 7496	diisopropyl ether
+US4659716_0004	T	T37	M 7595 7612	diisopropyl ether
+US4659716_0004	T	T38	M 7849 7866	diisopropyl ether
+US4659716_0004	T	T39	M 8090 8190	8-fluoro-11-(1-ethoxycarbonyl-4-piperidylidene)-6,11-dihydro-5H-benzo[5,6] cyclohepta[1,2-b]pyridine
+US4659716_0004	T	T40	M 8195 8278	8-fluoro-11-(4-piperidylidene)-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b] pyridine
+US4659716_0004	T	T41	M 8306 8405	8-Chloro-6,11-dihydro-11-(4-piperidylidene)-5H-benzo[5,6]cyclohepta[1,2-b]pyridine acetic acid salt
+US4659716_0004	T	T42	M 8422 8438	sodium hydroxide
+US4659716_0004	T	T43	M 8448 8461	ethyl alcohol
+US4659716_0004	T	T44	M 8483 8584	8-chloro-6,11-dihydro-11-(1-ethoxy-carbonyl-4-piperidylidene)-5H-benzo[5,6 ]cyclohepta[1,2-b]pyridine
+US4659716_0004	T	T45	M 8734 8747	ethyl alcohol
+US4659716_0004	T	T46	M 8846 8851	water
+US4659716_0004	T	T47	M 8877 8888	acetic acid
+US4659716_0004	T	T48	M 8903 8913	chloroform
+US4659716_0004	T	T49	M 8962 8973	acetic acid
+US4659716_0004	T	T50	M 9045 9055	chloroform
+US4659716_0004	T	T51	M 9116 9122	hexane
+US4659716_0004	T	T52	M 9167 9174	benzene
+US4659716_0004	T	T53	M 9175 9181	hexane
+US4659716_0004	T	T54	M 9258 9330	3-[2-(3-Chlorophenyl)ethyl]-N-(1,1-dimethylethyl)-2-pyridine carboxamide
+US4659716_0004	T	T55	M 9341 9394	N-(1,1-dimethylethyl)-3-methyl-2-pyridine carboxamide
+US4659716_0004	T	T56	M 9474 9489	tetrahydrofuran
+US4659716_0004	T	T57	M 9557 9571	n-butyllithium
+US4659716_0004	T	T58	M 9575 9581	hexane
+US4659716_0004	T	T59	M 9685 9699	sodium bromide
+US4659716_0004	T	T60	M 9771 9793	m-chlorobenzylchloride
+US4659716_0004	T	T61	M 9807 9822	tetrahydrofuran
+US4659716_0004	T	T62	M 9986 9991	Water
+US4659716_0004	T	T63	M 10087 10100	ethyl acetate
+US4659716_0004	T	T64	M 10114 10119	water
+US4659716_0004	T	T65	M 10214 10265	3-[2-(3-Chlorophenyl)ethyl]-2-pyridine-carbonitrile
+US4659716_0004	T	T66	M 10280 10352	3-[2-(3-chlorophenyl)ethyl]-N-(1,1-dimethylethyl)-2-pyridine carboxamide
+US4659716_0004	T	T67	M 10658 10663	water
+US4659716_0004	T	T68	M 10668 10679	isopropanol
+US4659716_0004	T	T69	M 10733 10749	sodium hydroxide
+US4659716_0004	T	T70	M 10874 10879	water
+US4659716_0004	T	T71	M 10940 10951	isopropanol
+US4659716_0004	T	T72	M 11021 11027	hexane
+US4659716_0004	T	T73	D 3750 3755	ether
+US4659716_0004	T	T74	D 10406 10429	phosphorous oxychloride
+US4659716_0004	T	T75	D 10541 10564	phosphorous oxychloride
+US4659716_0004	T	T76	B 172 175	THF
+US4659716_0004	T	T77	B 314 317	THF
+US4659716_0004	T	T78	B 732 735	THF
+US4659716_0004	T	T79	B 1505 1509	Pd/C
+US4659716_0004	T	T80	B 5006 5009	THF
+US4659716_0004	T	T81	B 5394 5397	THF
+US4659716_0004	T	T82	F 517 523	NH4 Cl
+US4659716_0004	T	T83	F 589 593	H2 O
+US4659716_0004	T	T84	F 696 703	CH2 Cl2
+US4659716_0004	T	T85	F 799 805	NH4 Cl
+US4659716_0004	T	T86	F 827 834	Na2 SO4
+US4659716_0004	T	T87	F 1594 1596	H2
+US4659716_0004	T	T88	F 1689 1693	H2 O
+US4659716_0004	T	T89	F 1892 1896	H2 O
+US4659716_0004	T	T90	F 2175 2178	KOH
+US4659716_0004	T	T91	F 2203 2207	H2 O
+US4659716_0004	T	T92	F 2451 2455	H2 O
+US4659716_0004	T	T93	F 2519 2522	HCl
+US4659716_0004	T	T94	F 2649 2653	H2 O
+US4659716_0004	T	T95	F 2972 2975	HCl
+US4659716_0004	T	T96	F 3286 3291	AlCl3
+US4659716_0004	T	T97	F 3413 3418	AlCl3
+US4659716_0004	T	T98	F 3498 3501	HCl
+US4659716_0004	T	T99	F 3687 3690	HCl
+US4659716_0004	T	T100	F 3879 3883	NaOH
+US4659716_0004	T	T101	F 4140 4146	NaHCO3
+US4659716_0004	T	T102	F 4171 4175	NaCl
+US4659716_0004	T	T103	F 4218 4225	Na2 SO4
+US4659716_0004	T	T104	F 4813 4816	NH3
+US4659716_0004	T	T105	F 5075 5081	NH4 Cl
+US4659716_0004	T	T106	F 5199 5205	NH4 Cl
+US4659716_0004	T	T107	F 5255 5259	H2 O
+US4659716_0004	T	T108	F 5358 5365	CH2 Cl2
+US4659716_0004	T	T109	F 5467 5473	NH4 Cl
+US4659716_0004	T	T110	F 5499 5506	Na2 SO4
+US4659716_0004	T	T111	F 6441 6447	H2 SO4
+US4659716_0004	T	T112	F 6516 6523	CH2 Cl2
+US4659716_0004	T	T113	F 6615 6619	NaOH
+US4659716_0004	T	T114	F 6737 6744	CH2 Cl2
+US4659716_0004	T	T115	F 6848 6854	NaHCO3
+US4659716_0004	T	T116	F 6888 6892	NaCl
+US4659716_0004	T	T117	F 6914 6921	Na2 SO4
+US4659716_0005	T	T1	M 0 89	(1-Methyl-4-piperidinyl)[3-[ 2-(3-chlorophenyl)ethyl]-2-pyridinyl]methanonehy drochloride
+US4659716_0005	T	T2	M 167 182	tetrahydrofuran
+US4659716_0005	T	T3	M 241 278	N-methyl-piperidyl magnesium chloride
+US4659716_0005	T	T4	M 362 367	water
+US4659716_0005	T	T5	M 577 594	hydrochloric acid
+US4659716_0005	T	T6	M 677 692	tetrahydrofuran
+US4659716_0005	T	T7	M 796 812	sodium hydroxide
+US4659716_0005	T	T8	M 925 930	water
+US4659716_0005	T	T9	M 1041 1132	8-Chloro-6,11-dihydro-11-(1-methyl-4-piperidylindene)5H-benzo[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0005	T	T10	M 1226 1243	hydrofluoric acid
+US4659716_0005	T	T11	M 1264 1283	boron trifluoridine
+US4659716_0005	T	T12	M 1426 1431	water
+US4659716_0005	T	T13	M 1436 1455	potassium hydroxide
+US4659716_0005	T	T14	M 1507 1514	toluene
+US4659716_0005	T	T15	M 1523 1530	toluene
+US4659716_0005	T	T16	M 1555 1560	water
+US4659716_0005	T	T17	M 1576 1583	toluene
+US4659716_0005	T	T18	M 1649 1655	hexane
+US4659716_0005	T	T19	M 1819 1910	8-Chloro-6,11-dihydro-11-(1-methyl-4-piperidylidene)-5H-benzo[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0005	T	T20	M 2007 2036	trifluoromethanesulfonic acid
+US4659716_0005	T	T21	M 2194 2199	water
+US4659716_0005	T	T22	M 2233 2249	barium carbonate
+US4659716_0005	T	T23	M 2281 2299	methylene chloride
+US4659716_0005	T	T24	M 2379 2384	water
+US4659716_0005	T	T25	M 2419 2436	hydrochloric acid
+US4659716_0005	T	T26	M 2562 2578	sodium hydroxide
+US4659716_0005	T	T27	M 2613 2631	methylene chloride
+US4659716_0005	T	T28	M 2706 2712	hexane
+US4659716_0005	T	T29	M 2868 2950	8-Chloro-6,11-dihydro-11-(4-piperidylidene)-5H-benzo[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0005	T	T30	M 2956 2967	acetic acid
+US4659716_0005	T	T31	M 3035 3040	water
+US4659716_0005	T	T32	M 3106 3125	potassium carbonate
+US4659716_0005	T	T33	M 3191 3201	chloroform
+US4659716_0005	T	T34	M 3213 3218	water
+US4659716_0005	T	T35	M 3270 3276	hexane
+US4659716_0005	T	T36	M 3315 3321	hexane
+US4659716_0005	T	T37	M 3404 3486	8-Chloro-6,11-dihydro-11-(4-piperidylidene)-5H-benzo[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0005	T	T38	M 3491 3581	8-chloro-6,11-dihydro-11-(1-cyano-4-piperidylidene)-5H-benzo[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0005	T	T39	M 3619 3711	8-chloro-6,11-dihydro-11-(1-methyl-4-piperidylidene)-5H-benzo[5,6]cyclohep ta[1,2-b]pyridine
+US4659716_0005	T	T40	M 3792 3799	benzene
+US4659716_0005	T	T41	M 3859 3875	cyanogen bromide
+US4659716_0005	T	T42	M 3906 3913	benzene
+US4659716_0005	T	T43	M 4141 4147	hexane
+US4659716_0005	T	T44	M 4211 4218	ethanol
+US4659716_0005	T	T45	M 4219 4224	water
+US4659716_0005	T	T46	M 4374 4456	8-Chloro-6,11-dihydro-11-(4-piperidylidene)-5H-benzo[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0005	T	T47	M 4543 4560	hydrochloric acid
+US4659716_0005	T	T48	M 4580 4591	acetic acid
+US4659716_0005	T	T49	M 4606 4611	water
+US4659716_0005	T	T50	M 4715 4720	water
+US4659716_0005	T	T51	M 4742 4760	ammonium hydroxide
+US4659716_0005	T	T52	M 4807 4817	chloroform
+US4659716_0005	T	T53	M 4823 4833	chloroform
+US4659716_0005	T	T54	M 4855 4860	water
+US4659716_0005	T	T55	M 4941 4947	hexane
+US4659716_0005	T	T56	M 5021 5027	hexane
+US4659716_0005	T	T57	M 5167 5239	N-(1,1-dimethylethyl)-3-[2-(4-fluorophenyl)ethyl]-2-pyridine carboxamide
+US4659716_0005	T	T58	M 5274 5326	N-(1,1-dimethylethyl)-3-methyl-2-pyridinecarboxamide
+US4659716_0005	T	T59	M 5375 5390	n-butyl lithium
+US4659716_0005	T	T60	M 5417 5431	sodium bromide
+US4659716_0005	T	T61	M 5498 5520	4-Fluorobenzylchloride
+US4659716_0005	T	T62	M 5664 5669	water
+US4659716_0005	T	T63	M 5710 5723	ethyl acetate
+US4659716_0005	T	T64	M 6094 6109	benzyl chloride
+US4659716_0005	T	T65	M 6114 6165	3-[2-(4-Fluorophenyl)ethyl]-2-pyridine-carbonitrile
+US4659716_0005	T	T66	M 6412 6425	ethyl acetate
+US4659716_0005	T	T67	M 6439 6444	water
+US4659716_0005	T	T68	M 6653 6721	9-Fluoro-5,6-dihydro-(1H)-benzo[5,6]cyclohepta[1,2-b]-pyridin-11-one
+US4659716_0005	T	T69	M 7163 7180	diisopropyl ether
+US4659716_0005	T	T70	M 7185 7278	9-fluoro-6,11-dihydro-11-(1-methyl-4-piperidinyl)-5H-benzo[5,6]cyclohepta[1,2-b]pyridin-11-OL
+US4659716_0005	T	T71	M 7450 7478	N-methyl-4-chloro-piperidine
+US4659716_0005	T	T72	M 7662 7675	ethyl acetate
+US4659716_0005	T	T73	M 7823 7831	methanol
+US4659716_0005	T	T74	M 7967 7984	diisopropyl ether
+US4659716_0005	T	T75	M 7989 8078	9-Fluoro-11-[1-methyl-4-piperidylene]-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0005	T	T76	M 8451 8464	ethyl acetate
+US4659716_0005	T	T77	M 8622 8635	ethyl acetate
+US4659716_0005	T	T78	M 8640 8655	isopropyl ether
+US4659716_0005	T	T79	D 1264 1283	boron trifluoridine
+US4659716_0005	T	T80	D 3859 3875	cyanogen bromide
+US4659716_0005	T	T81	D 5375 5390	n-butyl lithium
+US4659716_0005	T	T82	D 6785 6804	polyphosphoric acid
+US4659716_0005	T	T83	D 6874 6877	ice
+US4659716_0005	T	T84	B 5353 5356	THF
+US4659716_0005	T	T85	B 7352 7355	THF
+US4659716_0005	T	T86	B 7501 7504	THF
+US4659716_0005	T	T87	F 5794 5801	Na2 SO4
+US4659716_0005	T	T88	F 6219 6224	POCl3
+US4659716_0005	T	T89	F 6359 6363	NaOH
+US4659716_0005	T	T90	F 6471 6478	Na2 SO4
+US4659716_0005	T	T91	F 6542 6546	SiO2
+US4659716_0005	T	T92	F 6905 6909	NaOH
+US4659716_0005	T	T93	F 6962 6967	CHCl3
+US4659716_0005	T	T94	F 7024 7031	Na2 SO4
+US4659716_0005	T	T95	F 7616 7622	NH4 Cl
+US4659716_0005	T	T96	F 7728 7735	Na2 SO4
+US4659716_0005	T	T97	F 7835 7840	CHCl3
+US4659716_0005	T	T98	F 8119 8125	H2 SO4
+US4659716_0005	T	T99	F 8130 8139	CF3 SO3 H
+US4659716_0005	T	T100	F 8394 8398	NaOH
+US4659716_0005	T	T101	F 8516 8523	Na2 SO4
+US4659716_0005	T	T102	G 1565 1570	brine
+US4659716_0005	T	T103	G 4122 4137	petroleum ether
+US4659716_0005	T	T104	G 4922 4937	petroleum ether
+US4659716_0005	T	T105	G 5755 5760	brine
+US4659716_0005	T	T106	G 6082 6109	substituted benzyl chloride
+US4659716_0005	T	T107	G 6785 6804	polyphosphoric acid
+US4659716_0005	T	T108	G 6989 6994	brine
+US4659716_0006	T	T1	M 0 99	9-fluoro-11-[1-ethoxycarbonyl-4-piperidylidene]-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0006	T	T2	M 180 193	triethylamine
+US4659716_0006	T	T3	M 218 225	toluene
+US4659716_0006	T	T4	M 280 298	ethylchloroformate
+US4659716_0006	T	T5	M 666 673	pentane
+US4659716_0006	T	T6	M 678 760	9-Fluoro-11-[4-piperidylidene]-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0006	T	T7	M 854 861	ethanol
+US4659716_0006	T	T8	M 990 1003	ethyl acetate
+US4659716_0006	T	T9	M 1152 1206	3-[2-(3,4-Dichlorophenyl)ethyl]-2-pyridinecarbonitrile
+US4659716_0006	T	T10	M 1221 1297	3-[2-(3,4-dichlorophenyl)ethyl]-N-(1,1-dimethylethyl)-2-pyridine carboxamide
+US4659716_0006	T	T11	M 1613 1632	potassium carbonate
+US4659716_0006	T	T12	M 1664 1676	ethylacetate
+US4659716_0006	T	T13	M 1760 1773	diethyl ether
+US4659716_0006	T	T14	M 1774 1787	ethyl acetate
+US4659716_0006	T	T15	M 1859 1940	(1-Methyl-4-piperidinyl)-[3-[2-(3,4-dichlorophenyl)ethyl]-2-piperidinyl]methanone
+US4659716_0006	T	T16	M 2029 2044	tetrahydrofuran
+US4659716_0006	T	T17	M 2103 2139	N-methylpiperidyl magnesium chloride
+US4659716_0006	T	T18	M 2282 2299	hydrochloric acid
+US4659716_0006	T	T19	M 2437 2450	ethyl acetate
+US4659716_0006	T	T20	M 2575 2592	diisopropyl ether
+US4659716_0006	T	T21	M 2666 2761	8,9-Dichloro-6,11-dihydro-11-(1-methyl-4-piperidylidene-5H-benzo[5,6]-cyclohepta[1,3-b[pyridine
+US4659716_0006	T	T22	M 2863 2892	trifluoromethanesulfonic acid
+US4659716_0006	T	T23	M 2961 2966	water
+US4659716_0006	T	T24	M 3000 3019	potassium hydroxide
+US4659716_0006	T	T25	M 3051 3064	ethyl acetate
+US4659716_0006	T	T26	M 3182 3189	acetone
+US4659716_0006	T	T27	M 3190 3197	pentane
+US4659716_0006	T	T28	M 3272 3375	8,9-Dichloro-6,11-dihydro-11-(1-ethoxycarbonyl-4-piperidylidene)-5H-benzo[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0006	T	T29	M 3377 3396	Ethyl chloroformate
+US4659716_0006	T	T30	M 3438 3445	toluene
+US4659716_0006	T	T31	M 3545 3558	triethylamine
+US4659716_0006	T	T32	M 3600 3607	toluene
+US4659716_0006	T	T33	M 3862 3869	pentane
+US4659716_0006	T	T34	M 3943 4029	8,9-Dichloro-11-(4-piperidylidene)-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridine
+US4659716_0006	T	T35	M 4103 4122	potassium hydroxide
+US4659716_0006	T	T36	M 4156 4161	water
+US4659716_0006	T	T37	M 4176 4183	ethanol
+US4659716_0006	T	T38	M 4255 4260	water
+US4659716_0006	T	T39	M 4295 4308	ethyl acetate
+US4659716_0006	T	T40	M 4436 4443	toluene
+US4659716_0006	T	T41	M 4499 4514	benzyl chloride
+US4659716_0006	T	T42	M 4550 4573	3-fluorobenzyl chloride
+US4659716_0006	T	T43	D 1353 1376	phosphorous oxychloride
+US4659716_0006	T	T44	D 1514 1517	ice
+US4659716_0006	T	T45	F 521 525	SiO2
+US4659716_0006	T	T46	F 553 558	CHCl3
+US4659716_0006	T	T47	F 830 833	KOH
+US4659716_0006	T	T48	F 862 866	H2 O
+US4659716_0006	T	T49	F 1027 1034	Na2 SO4
+US4659716_0006	T	T50	F 1522 1526	H2 O
+US4659716_0006	T	T51	G 4487 4514	substituted benzyl chloride
+US4659716_0007	T	T1	M 232 237	Water
+US4659716_0007	T	T2	M 274 292	Magnesium Stearate
+US4659716_0007	T	T3	M 996 1014	Magnesium Stearate
+US4659716_0007	T	T4	M 1519 1524	water
+US4659716_0007	T	T5	M 1557 1562	water
+US4659716_0007	T	T6	M 1736 1763	Methyl para-hydroxybenzoate
+US4659716_0007	T	T7	M 1768 1795	Propyl para-hydroxybenzoate
+US4659716_0007	T	T8	M 1800 1816	Sodium Bisulfite
+US4659716_0007	T	T9	M 1821 1837	Disodium Edetate
+US4659716_0007	T	T10	D 151 158	Lactose
+US4659716_0007	T	T11	D 174 185	Corn Starch
+US4659716_0007	T	T12	D 241 252	Corn Starch
+US4659716_0007	T	T13	D 939 946	Lactose
+US4659716_0007	T	T14	D 962 973	Corn Starch
+US4659716_0008	T	T1	M 0 14	Sodium Sulfate
+US4659716_0008	T	T2	M 19 24	Water
+US4659716_0008	T	T3	M 199 204	water
+US4659716_0008	T	T4	M 279 295	sodium bisulfite
+US4659716_0008	T	T5	M 297 313	disodium edetate
+US4659716_0008	T	T6	M 318 332	sodium sulfate
+US4659716_0008	T	T7	M 422 427	water
+US4659716_0008	T	T8	M 707 790	8-chloro-6,11-dihydro-11-(4-piperidylidene)-5H-benzo[5,6]cyclohepta[1,2-b] pyridine
+US4659716_0008	T	T9	M 1466 1480	monocetylether
+US4659716_0008	T	T10	M 1481 1497	Propylene glycol
+US4659716_0008	T	T11	M 1501 1506	Water
+US4659716_0008	T	T12	M 1683 1690	Ethanol
+US4659716_0008	T	T13	M 1695 1700	Water
+US4659716_0008	T	T14	D 1003 1019	White Petrolatum
+US4659716_0008	T	T15	D 1180 1196	Propylene glycol
+US4659716_0008	T	T16	D 1201 1217	White Petrolatum
+US4659716_0008	T	T17	D 1390 1406	White Petrolatum
+US4659716_0008	T	T18	D 1411 1430	Cetostearyl Alcohol
+US4659716_0008	T	T19	D 1481 1497	Propylene glycol
+US4659716_0008	T	T20	D 1664 1678	Pluronic F-127
+US4659716_0008	T	T21	G 131 152	para-hydroxybenzoates
+US4659716_0008	T	T22	G 1436 1455	Polyethylene glycol
+US4659716_0009	T	T1	M 157 176	Cetostearyl Alcohol
+US4659716_0009	T	T2	M 197 213	Propylene Glycol
+US4659716_0009	T	T3	M 220 225	Water
+US4659716_0009	T	T4	M 3220 3231	acetic acid
+US4659716_0009	T	T5	D 134 150	White Petrolatum
+US4659716_0009	T	T6	D 157 176	Cetostearyl Alcohol
+US4659716_0009	T	T7	D 182 188	Ceteth
+US4659716_0009	T	T8	D 197 213	Propylene Glycol
+US4659716_0009	T	T9	G 117 128	Mineral Oil
+US4659716_0009	T	T10	G 2055 2071	silicone polymer
+US4659716_0009	T	T11	G 2229 2247	Polyvinyl chloride
+US4659716_0009	T	T12	G 2252 2276	vinyl acetate co-polymer
+US5023269_0001	T	T1	M 1442 1502	dl-N-methyl-γ-[4-(trifluoromethyl)phenoxy]benzenepropanamine
+US5023269_0001	T	T2	M 1530 1549	5-hydroxytryptamine
+US5023269_0001	T	T3	M 1731 1795	(-)-N-methyl-δ-(2-methylphenoxy)benzenepropanamine hydrochloride
+US5023269_0001	T	T4	D 187 196	serotonin
+US5023269_0001	T	T5	D 201 215	norepinephrine
+US5023269_0001	T	T6	D 1408 1440	hydrochloride salt of fluoxetine
+US5023269_0001	T	T7	D 1519 1528	serotonin
+US5023269_0001	T	T8	D 1705 1729	tomoxetine hydrochloride
+US5023269_0001	T	T9	D 1825 1839	norepinephrine
+US5023269_0001	T	T10	D 2217 2226	serotonin
+US5023269_0001	T	T11	D 2231 2245	norepinephrine
+US5023269_0001	T	T12	D 3016 3025	serotonin
+US5023269_0001	T	T13	D 3030 3044	norepinephrine
+US5023269_0001	T	T14	D 3150 3159	serotonin
+US5023269_0001	T	T15	D 3164 3178	norepinephrine
+US5023269_0001	T	T16	G 7 43	3-aryloxy-3-substituted propanamines
+US5023269_0001	T	T17	G 114 150	3-aryloxy-3-substituted propanamines
+US5023269_0001	T	T18	G 2144 2180	3-aryloxy-3-substituted propanamines
+US5023269_0001	T	T19	Disease 1630 1640	depression
+US5023269_0001	T	T20	Disease 1642 1649	anxiety
+US5023269_0001	T	T21	Disease 1651 1671	appetite suppression
+US5023269_0001	T	T22	Disease 3200 3207	obesity
+US5023269_0001	T	T23	Disease 3209 3219	depression
+US5023269_0001	T	T24	Disease 3221 3231	alcoholism
+US5023269_0001	T	T25	Disease 3233 3237	pain
+US5023269_0001	T	T26	Disease 3239 3253	loss of memory
+US5023269_0001	T	T27	Disease 3255 3262	anxiety
+US5023269_0001	T	T28	Disease 3264 3271	smoking
+US5023269_0001	T	T29	MOA 162 215	inhibiting the uptake of serotonin and norepinephrine
+US5023269_0001	T	T30	MOA 1802 1846	selective inhibitor of norepinephrine uptake
+US5023269_0001	T	T31	MOA 1885 1908	antidepressant activity
+US5023269_0001	T	T32	MOA 2022 2080	selective blockers of the uptake of a particular monoamine
+US5023269_0002	T	T1	M 2920 2932	hydrochloric
+US5023269_0002	T	T2	M 2934 2945	hydrobromic
+US5023269_0002	T	T3	M 2947 2957	hydroiodic
+US5023269_0002	T	T4	M 2959 2967	sulfuric
+US5023269_0002	T	T5	M 2972 2987	phosphoric acid
+US5023269_0002	T	T6	M 3022 3042	para-toluenesulfonic
+US5023269_0002	T	T7	M 3044 3059	methanesulfonic
+US5023269_0002	T	T8	M 3061 3067	oxalic
+US5023269_0002	T	T9	M 3069 3093	para-bromophenylsulfonic
+US5023269_0002	T	T10	M 3095 3103	carbonic
+US5023269_0002	T	T11	M 3105 3113	succinic
+US5023269_0002	T	T12	M 3115 3121	citric
+US5023269_0002	T	T13	M 3123 3130	benzoic
+US5023269_0002	T	T14	M 3135 3146	acetic acid
+US5023269_0002	T	T15	M 3241 3248	sulfate
+US5023269_0002	T	T16	M 3250 3261	pyrosulfate
+US5023269_0002	T	T17	M 3263 3272	bisulfate
+US5023269_0002	T	T18	M 3274 3281	sulfite
+US5023269_0002	T	T19	M 3283 3292	bisulfite
+US5023269_0002	T	T20	M 3294 3303	phosphate
+US5023269_0002	T	T21	M 3305 3326	monohydrogenphosphate
+US5023269_0002	T	T22	M 3328 3347	dihydrogenphosphate
+US5023269_0002	T	T23	M 3349 3362	metaphosphate
+US5023269_0002	T	T24	M 3364 3377	pyrophosphate
+US5023269_0002	T	T25	M 3379 3387	chloride
+US5023269_0002	T	T26	M 3389 3396	bromide
+US5023269_0002	T	T27	M 3406 3413	acetate
+US5023269_0002	T	T28	M 3415 3425	propionate
+US5023269_0002	T	T29	M 3427 3436	decanoate
+US5023269_0002	T	T30	M 3438 3447	caprylate
+US5023269_0002	T	T31	M 3449 3457	acrylate
+US5023269_0002	T	T32	M 3459 3466	formate
+US5023269_0002	T	T33	M 3468 3479	isobutyrate
+US5023269_0002	T	T34	M 3481 3488	caprate
+US5023269_0002	T	T35	M 3490 3500	heptanoate
+US5023269_0002	T	T36	M 3502 3512	propiolate
+US5023269_0002	T	T37	M 3514 3521	oxalate
+US5023269_0002	T	T38	M 3523 3531	malonate
+US5023269_0002	T	T39	M 3533 3542	succinate
+US5023269_0002	T	T40	M 3544 3552	suberate
+US5023269_0002	T	T41	M 3554 3562	sebacate
+US5023269_0002	T	T42	M 3564 3572	fumarate
+US5023269_0002	T	T43	M 3574 3581	maleate
+US5023269_0002	T	T44	M 3583 3600	butyne-1,4-dioate
+US5023269_0002	T	T45	M 3602 3619	hexyne-1,6-dioate
+US5023269_0002	T	T46	M 3621 3629	benzoate
+US5023269_0002	T	T47	M 3631 3645	chlorobenzoate
+US5023269_0002	T	T48	M 3647 3661	methylbenzoate
+US5023269_0002	T	T49	M 3663 3678	dinitrobenzoate
+US5023269_0002	T	T50	M 3680 3695	hydroxybenzoate
+US5023269_0002	T	T51	M 3697 3712	methoxybenzoate
+US5023269_0002	T	T52	M 3714 3723	phthalate
+US5023269_0002	T	T53	M 3725 3739	terephathalate
+US5023269_0002	T	T54	M 3741 3750	sulfonate
+US5023269_0002	T	T55	M 3752 3767	xylenesulfonate
+US5023269_0002	T	T56	M 3769 3782	phenylacetate
+US5023269_0002	T	T57	M 3784 3800	phenylpropionate
+US5023269_0002	T	T58	M 3802 3816	phenylbutyrate
+US5023269_0002	T	T59	M 3818 3825	citrate
+US5023269_0002	T	T60	M 3827 3834	lactate
+US5023269_0002	T	T61	M 3836 3853	β-hydroxybutyrate
+US5023269_0002	T	T62	M 3855 3865	glycollate
+US5023269_0002	T	T63	M 3867 3874	maleate
+US5023269_0002	T	T64	M 3886 3902	methanesulfonate
+US5023269_0002	T	T65	M 3923 3946	naphthalene-1-sulfonate
+US5023269_0002	T	T66	M 3948 3971	naphthalene-2-sulfonate
+US5023269_0002	T	T67	M 3973 3982	mandelate
+US5023269_0002	T	T68	M 4109 4126	hydrochloric acid
+US5023269_0002	T	T69	M 4131 4147	hydrobromic acid
+US5023269_0002	T	T70	M 4201 4212	oxalic acid
+US5023269_0002	T	T71	M 4217 4228	maleic acid
+US5023269_0002	T	T72	M 4339 4405	N-Methyl-3-(1-naphthalenyloxy)-3-(3-thienyl)-propanamine phosphate
+US5023269_0002	T	T73	M 4406 4471	N-Methyl-3-(2-naphthalenyloxy)-3-(cyclohexyl)-propanamine citrate
+US5023269_0002	T	T74	M 4472 4554	N,N-Dimethyl-3-(4-chloro-1-naphthalenyloxy)-3-(3-furanyl)propanamine hydrochloride
+US5023269_0002	T	T75	M 4555 4634	N-Methyl-3-(5-methyl-2-naphthalenyloxy)-3-(2-thiazolyl)propanamine hydrobromide
+US5023269_0002	T	T76	M 4635 4728	N-Methyl-3-[3-(trifluoromethyl)-1-naphthalemyloxy]-3-(3-methyl-2-thienyl)pr opanamine oxalate
+US5023269_0002	T	T77	M 4729 4799	N-Methyl-3-(6-iodo-1-naphthalenyloxy)-3-(4-pyridyl)propanamine maleate
+US5023269_0002	T	T78	M 4800 4869	N,N-Dimethyl-3-(1-naphthalenyloxy)-3-(cycloheptyl)propanamine formate
+US5023269_0002	T	T79	M 4870 4929	N,N-Dimethyl-3-(2-naphthalenyloxy)-3-(2-pyridyl)propanamine
+US5023269_0002	T	T80	M 4930 4993	N-Methyl-3-(1-naphthalenyloxy)-3-(2-furanyl)propanamine sulfate
+US5023269_0002	T	T81	M 4994 5063	N-Methyl-3-(4-met naphthalenyloxy)-3-(4-thiazolyl)propanamine oxalate
+US5023269_0002	T	T82	M 5064 5133	N-Methyl-3-(2-naphthalenyloxy)-3-(2-thienyl)propanamine hydrochloride
+US5023269_0002	T	T83	M 5134 5216	N,N-Dimethyl-3-6-iodo-2-naphthalenyloxy)-3-(4-bromo-3-thienyl)propanamine malonate
+US5023269_0002	T	T84	M 5217 5288	N,N-Dimethyl-3-(1-naphthalenyloxy)-3-(3-pyridyl)propanamine hydroiodide
+US5023269_0002	T	T85	M 5289 5365	N,N-Dimethyl-3-(4-methyl-2-naphthalenyloxy)-3-(3-furanyl)propanamine maleate
+US5023269_0002	T	T86	M 5366 5430	N-Methyl-3-(2-naphthalenyloxy)-3-(cyclohexyl)propanamine caprate
+US5023269_0002	T	T87	M 5431 5518	N-Methyl-3-(6-n-propyl-1-naphthalenyloxy)-3-(3-isopropyl-2-thienyl)propanam ine citrate
+US5023269_0002	T	T88	M 5519 5612	N,N-Dimethyl-3-(2-methyl-1-naphthalenyloxy)-3-(4-thiazolyl)propanamine monohydrogen phosphate
+US5023269_0002	T	T89	M 5613 5677	3-(1-Naphthalenyloxy)-3-(5-ethyl-3-thienyl)propanamine succinate
+US5023269_0002	T	T90	M 5678 5749	3-3-(Trifluoromethyl)-1-naphthalenyloxy]-3-(pyridyl)propanamine acetate
+US5023269_0002	T	T91	M 5750 5828	N-Methyl-3-(6-methyl-1-naphthalenyl-3-(4-chloro-2-thienyl)propanamine tartrate
+US5023269_0002	T	T92	M 5829 5877	3-(2-Naphthalenyloxy)-3-(cyclopentyl)propanamine
+US5023269_0002	T	T93	M 5878 5960	N-Methyl-3-(4-n-butyl-1-naphthalenyloxy)-3-(3-furanyl)propanamine methanesulfonate
+US5023269_0002	T	T94	M 5961 6026	3-(2-Chloro-1-naphthalenyloxy)-3-(5-thiazolyl)propanamine oxalate
+US5023269_0002	T	T95	M 6027 6091	N-Methyl-3-(1-naphthalenyloxy)-3-(3-furanyl)propanamine tartrate
+US5023269_0002	T	T96	M 6092 6149	N,N-Dimethyl-3-(phenoxy)-3-(2-furanyl)propanamine oxalate
+US5023269_0002	T	T97	M 6150 6233	N,N-Dimethyl-3-[4-(trifluoromethyl)phenoxy]-3-(cyclohexyl)propanamine hydrochloride
+US5023269_0002	T	T98	M 6234 6307	N-Methyl-3-(4-methylphenoxy)-3-(4-chloro-2-thienyl)propanamine propionate
+US5023269_0002	T	T99	M 6308 6361	N-Methyl-3-(phenoxy)-3-(3-pyridyl)propanamine oxalate
+US5023269_0002	T	T100	M 6362 6426	3-[2-Chloro-4-(trifluoromethyl)phenoxy]-3-(2-thienyl)propanamine
+US5023269_0002	T	T101	M 6427 6501	N,N-Dimethyl-3-(3-methoxyphenoxy)-3-(3-bromo-2-thienyl)propanamine citrate
+US5023269_0002	T	T102	M 6502 6564	N-Methyl-3-(4-bromophenoxy)-3-(4-thiazolyl)propanamine maleate
+US5023269_0002	T	T103	M 6565 6629	N,N-Dimethyl-3-(2-ethylphenoxy)-3-(5-methyl-3thienyl)propanamine
+US5023269_0002	T	T104	M 6630 6692	N-Methyl-3-(2-bromophenoxy)-3-(3-thienyl)propanamine succinate
+US5023269_0002	T	T105	M 6693 6767	N-Methyl-3-(2,6-dimethylphenoxy)-3-(3-methyl-2-thienyl)propanamine acetate
+US5023269_0002	T	T106	M 6768 6831	3-[3-(Trifluoromethyl)phenoxy]-3-(3-furanyl)propanamine oxalate
+US5023269_0002	T	T107	M 6832 6891	N-Methyl-3-(2,5-dichlorophenoxy)-3-(cyclopentyl)propanamine
+US5023269_0002	T	T108	M 6892 6948	3-4-(Trifluoromethyl)phenoxy]-3-(2-thiazolyl)propanamine
+US5023269_0002	T	T109	M 6949 7011	N-Methyl-3-(phenoxy)-3-(5-methyl-2-thienyl)propanamine citrate
+US5023269_0002	T	T110	M 7012 7070	3-(4-Methylphenoxy)-3-(4-pyridyl)propanamine hydrochloride
+US5023269_0002	T	T111	D 1354 1363	serotonin
+US5023269_0002	T	T112	D 1368 1382	norepinephrine
+US5023269_0002	T	T113	D 1737 1751	norepinephrine
+US5023269_0002	T	T114	G 3876 3884	tartrate
+US5023269_0002	T	T115	G 3904 3921	propanesulfonates
+US5023269_0002	T	T116	MOA 1712 1751	inhibiting the uptake of norepinephrine
+US5023269_0003	T	T1	M 0 65	N,N-Dimethyl-3-(3-methyl-5-bromophenoxy)-3-(3-thienyl)propanamine
+US5023269_0003	T	T2	M 66 135	N-Methyl-3-(3-n-propylphenoxy)-3-(2-thienyl)propanamine hydrochloride
+US5023269_0003	T	T3	M 136 191	N-Methyl-3-(phenoxy)-3-(3-thienyl)propanamine phosphate
+US5023269_0003	T	T4	M 192 257	N-Methyl-3-(4-methoxyphenoxy)-3-(cycloheptyl) propanamine citrate
+US5023269_0003	T	T5	M 258 315	3-(2-Chlorophenoxy)-3-(5-thiazolyl)propanamine propionate
+US5023269_0003	T	T6	M 316 387	3-2-Chloro-4-(trifluoromethyl)phenoxy]-3-(3-thienyl)propanamine oxalate
+US5023269_0003	T	T7	M 388 433	3-(Phenoxy)-3-(4-methyl-2-thienyl)propanamine
+US5023269_0003	T	T8	M 434 498	N,N-Dimethyl-3-(4-ethylphenoxy)-3-(3-pyridyl)propanamine maleate
+US5023269_0003	T	T9	M 499 567	N,N-Dimethyl-3-[4-(trifluoromethyl)phenoxy]-3-(2-pyridyl)propanamine
+US5023269_0003	T	T10	M 974 985	propanamine
+US5023269_0003	T	T11	M 1253 1277	triphenylphosphine oxide
+US5023269_0003	T	T12	M 1564 1578	sodium hydride
+US5023269_0003	T	T13	M 1583 1600	potassium hydride
+US5023269_0003	T	T14	M 1786 1807	N,N-dimethylacetamide
+US5023269_0003	T	T15	M 2329 2342	diethyl ether
+US5023269_0003	T	T16	M 2344 2357	ethyl acetate
+US5023269_0003	T	T17	M 2359 2369	chloroform
+US5023269_0003	T	T18	M 2839 2862	N,N-dimethylpropanamine
+US5023269_0003	T	T19	M 2893 2913	phenyl chloroformate
+US5023269_0003	T	T20	M 2917 2945	trichloroethyl chloroformate
+US5023269_0003	T	T21	M 2966 2989	N,N-dimethylpropanamine
+US5023269_0003	T	T22	M 3095 3114	N-methylpropanamine
+US5023269_0003	T	T23	M 3899 3911	formaldehyde
+US5023269_0003	T	T24	M 3916 3929	dimethylamine
+US5023269_0003	T	T25	M 3992 4009	sodium brohydride
+US5023269_0003	T	T26	M 4324 4335	propanamine
+US5023269_0003	T	T27	M 4462 4475	diethyl ether
+US5023269_0003	T	T28	M 4479 4486	benzene
+US5023269_0003	T	T29	M 4854 4921	N,N-Dimethyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine oxalate
+US5023269_0003	T	T30	M 4925 4980	3-Dimethylamino-1-(2-thienyl)-1-propanone hydrochloride
+US5023269_0003	T	T31	M 4994 5011	2-acetylthiophene
+US5023269_0003	T	T32	M 5031 5058	dimethylamine hydrochloride
+US5023269_0003	T	T33	M 5079 5095	paraformaldehyde
+US5023269_0003	T	T34	M 5124 5141	hydrochloric acid
+US5023269_0003	T	T35	M 5152 5159	ethanol
+US5023269_0003	T	T36	M 5239 5246	ethanol
+US5023269_0003	T	T37	M 5260 5267	acetone
+US5023269_0003	T	T38	M 5390 5445	3-dimethylamino-1-(2-thienyl)-1-propanone hydrochloride
+US5023269_0003	T	T39	M 5611 5658	α-[2-(Dimethylamino)ethyl]-2-thiophene methanol
+US5023269_0003	T	T40	M 5676 5730	3-dimethylamino-1-(2-thenyl)-1-propanone hydrochloride
+US5023269_0003	T	T41	M 5763 5771	methanol
+US5023269_0003	T	T42	M 5786 5791	water
+US5023269_0003	T	T43	M 5820 5836	sodium hydroxide
+US5023269_0003	T	T44	M 5912 5930	sodium borohydride
+US5023269_0003	T	T45	M 6031 6039	methanol
+US5023269_0003	T	T46	M 6105 6110	water
+US5023269_0003	T	T47	M 6144 6157	diethyl ether
+US5023269_0003	T	T48	M 6204 6219	sodium chloride
+US5023269_0003	T	T49	M 6252 6266	sodium sulfate
+US5023269_0003	T	T50	M 6572 6618	α-2-(Dimethylamino)ethyl]-2-thiophene methanol
+US5023269_0003	T	T51	M 6681 6695	sodium hydride
+US5023269_0003	T	T52	M 6729 6746	dimethylacetamide
+US5023269_0003	T	T53	M 6807 6826	1-Fluoronaphthalene
+US5023269_0003	T	T54	M 6983 6988	water
+US5023269_0003	T	T55	M 7014 7027	diethyl ether
+US5023269_0003	T	T56	M 7099 7114	sodium chloride
+US5023269_0003	T	T57	M 7146 7160	sodium sulfate
+US5023269_0003	T	T58	M 7261 7268	oxalate
+US5023269_0003	T	T59	M 7279 7292	ethyl acetate
+US5023269_0003	T	T60	M 7293 7301	methanol
+US5023269_0003	T	T61	M 7328 7395	N,N-dimethyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine oxalate
+US5023269_0003	T	T62	M 7556 7619	N-Methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine oxalate
+US5023269_0003	T	T63	M 7620 7640	Phenyl chloroformate
+US5023269_0003	T	T64	M 7708 7767	N,N-dimethyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0003	T	T65	M 7802 7809	toluene
+US5023269_0003	T	T66	M 7932 7948	sodium hydroxide
+US5023269_0003	T	T67	M 7950 7955	water
+US5023269_0003	T	T68	M 7960 7977	hydrochloric acid
+US5023269_0003	T	T69	M 8008 8022	sodium sulfate
+US5023269_0003	T	T70	M 8076 8085	carbamate
+US5023269_0003	T	T71	M 8090 8106	Sodium hydroxide
+US5023269_0003	T	T72	M 8159 8168	carbamate
+US5023269_0003	T	T73	M 8308 8313	water
+US5023269_0003	T	T74	M 8333 8346	diethyl ether
+US5023269_0003	T	T75	M 8382 8387	water
+US5023269_0003	T	T76	M 8409 8424	sodium chloride
+US5023269_0003	T	T77	M 8456 8470	sodium sulfate
+US5023269_0003	T	T78	M 8562 8569	oxalate
+US5023269_0003	T	T79	M 8580 8593	ethyl acetate
+US5023269_0003	T	T80	M 8594 8602	methanol
+US5023269_0003	T	T81	M 8805 8880	N,N-Dimethyl-3-(1-naphthalenyloxy)-3-(5-methyl-2-thienyl)propanamineoxalate
+US5023269_0003	T	T82	M 8885 8949	3-Dimethylamino-1-(5-methyl-2-thienyl)-1-propanone hydrochloride
+US5023269_0003	T	T83	M 9049 9075	2-acetyl-5-methylthiophene
+US5023269_0003	T	T84	M 9177 9184	acetone
+US5023269_0003	T	T85	M 9319 9374	α-[2-(Dimethylamino)ethyl]-5-methyl-2thiophene methanol
+US5023269_0003	T	T86	M 9439 9503	3-dimethylamino-1-(5-methyl-2-thienyl)-1-propanone hydrochloride
+US5023269_0003	T	T87	M 9805 9860	α-2-(dimethylamino)ethyl]-5-methyl-2-thiophene methanol
+US5023269_0003	T	T88	M 9886 9954	N,N-dimethyl-3-(1-naphthalenyloxy)-3-(5-methyl-2-thienyl)propanamine
+US5023269_0003	T	T89	M 10032 10050	methylene chloride
+US5023269_0003	T	T90	M 10051 10059	methanol
+US5023269_0003	T	T91	M 10116 10129	ethyl acetate
+US5023269_0003	T	T92	M 10130 10138	methanol
+US5023269_0003	T	T93	M 10176 10183	oxalate
+US5023269_0003	T	T94	M 10363 10439	N,N-Dimethyl-3-(1-naphthalenyloxy)-3-(3-methyl-2-thienyl)propanamine oxalate
+US5023269_0003	T	T95	M 10443 10507	3-Dimethylamino-1-(3-methyl-2-thienyl)-1-propanone hydrochloride
+US5023269_0003	T	T96	M 10604 10630	2-acetyl-3-methylthiophene
+US5023269_0003	T	T97	M 10698 10705	acetone
+US5023269_0003	T	T98	M 10905 10961	α-[2-(Dimethylamino)ethyl]-3-methyl-2-thiophene methanol
+US5023269_0003	T	T99	M 10999 11064	3-dimethyl-amino-1-(3-methyl-2-thienyl)-1-propanone hydrochloride
+US5023269_0003	T	T100	M 11337 11405	N,N-Dimethyl-3-(1-naphthalenyloxy)-3-(3-methyl-2-thienyl)propanamine
+US5023269_0003	T	T101	M 11518 11536	methylene chloride
+US5023269_0003	T	T102	M 11537 11545	methanol
+US5023269_0003	T	T103	M 11611 11618	oxalate
+US5023269_0003	T	T104	M 11646 11659	ethyl acetate
+US5023269_0003	T	T105	M 11660 11668	methanol
+US5023269_0003	T	T106	D 3992 4009	sodium brohydride
+US5023269_0003	T	T107	D 5079 5095	paraformaldehyde
+US5023269_0003	T	T108	D 8193 8209	propylene glycol
+US5023269_0003	T	T109	F 5524 5536	C0 H14 ClNOS
+US5023269_0003	T	T110	F 6487 6497	C9 H19 NOS
+US5023269_0003	T	T111	F 7460 7473	C21 H23 NO5 S
+US5023269_0003	T	T112	F 9230 9243	C10 H16 ClNOS
+US5023269_0003	T	T113	F 9662 9673	C10 H17 NOS
+US5023269_0003	T	T114	F 10268 10281	C22 H25 NO5 S
+US5023269_0003	T	T115	F 10817 10830	C10 H16 ClNOS
+US5023269_0003	T	T116	G 772 792	alkali metal hydride
+US5023269_0003	T	T117	G 950 985	3-aryloxy-3-substituted propanamine
+US5023269_0003	T	T118	G 3576 3610	dibenzoyl-d- and -1-tartaric acids
+US5023269_0003	T	T119	G 4300 4335	3-aryloxy-3-substituted propanamine
+US5023269_0003	T	T120	G 6373 6380	hexanes
+US5023269_0003	T	T121	G 7979 7984	brine
+US5023269_0003	T	T122	G 8076 8085	carbamate
+US5023269_0003	T	T123	G 8159 8168	carbamate
+US5023269_0003	T	T124	G 11135 11142	hexanes
+US5023269_0004	T	T1	M 119 194	N,N-Dimethyl-3-(1-naphthalenyloxy)-3-(5-chloro-2-thienyl)propanamineoxalate
+US5023269_0004	T	T2	M 199 263	3-Dimethylamino-1-(5-chloro-2-thienyl)-1-propanone hydrochloride
+US5023269_0004	T	T3	M 350 376	2-acetyl-5-chlorothiophene
+US5023269_0004	T	T4	M 424 431	acetone
+US5023269_0004	T	T5	M 586 642	α-[2-(Dimethylamino)ethyl]-5-chloro-2-thiophene methanol
+US5023269_0004	T	T6	M 696 760	3-dimethylamino-1-(5-chloro-2-thienyl)-1-propanone hydrochloride
+US5023269_0004	T	T7	M 986 1054	N,N-Dimethyl-3-(1-naphthalenyloxy)-3-(5-chloro-2-thienyl)propanamine
+US5023269_0004	T	T8	M 1073 1127	α2-(dimethylamino)ethyl]-5-chloro-2-thiophene methanol
+US5023269_0004	T	T9	M 1241 1259	methylene chloride
+US5023269_0004	T	T10	M 1260 1268	methanol
+US5023269_0004	T	T11	M 1269 1287	ammonium hydroxide
+US5023269_0004	T	T12	M 1370 1377	oxalate
+US5023269_0004	T	T13	M 1388 1401	ethyl acetate
+US5023269_0004	T	T14	M 1402 1410	methanol
+US5023269_0004	T	T15	M 1572 1658	N,N-Dimethyl-3-[4-(trifluoromethyl)-1naphthalenyloxy]-3-(2-thienyl)propanamine oxalate
+US5023269_0004	T	T16	M 1716 1753	4-trifluoromethyl-1-fluoronaphthalene
+US5023269_0004	T	T17	M 1873 1886	ethyl acetate
+US5023269_0004	T	T18	M 1887 1895	methanol
+US5023269_0004	T	T19	M 2040 2123	N-Methyl-3-[4-(trifluoromethyl)-1-naphthalenyloxy]-3-(2-thienyl)propanamine oxalate
+US5023269_0004	T	T20	M 2174 2262	N,N-dimethyl-3-[4-(trifluoromethyl)-1-naphthalenyloxy]-3-(2-thienyl)propan amine oxalate
+US5023269_0004	T	T21	M 2321 2334	ethyl acetate
+US5023269_0004	T	T22	M 2335 2343	methanol
+US5023269_0004	T	T23	M 2523 2590	N,N-Dimethyl-3-(1-naphthalenyloxy)-3-(3-thienyl)propanamine oxalate
+US5023269_0004	T	T24	M 2594 2649	3-Dimethylamino-1-(3-thienyl)-1-propanone hydrochloride
+US5023269_0004	T	T25	M 2728 2745	3-acetylthiophene
+US5023269_0004	T	T26	M 2791 2798	acetone
+US5023269_0004	T	T27	M 2967 3014	α-[2-(Dimethylamino)ethyl]-3-thiophene methanol
+US5023269_0004	T	T28	M 3093 3148	3-dimethylamino-1-(3-thienyl)-1-propanone hydrochloride
+US5023269_0004	T	T29	M 3194 3207	diethyl ether
+US5023269_0004	T	T30	M 3208 3214	hexane
+US5023269_0004	T	T31	M 3396 3463	N,N-Dimethyl-3-(1-naphthalenyloxy)-3-(3-thienyl)propanamine oxalate
+US5023269_0004	T	T32	M 3523 3570	α-[2-(dimethylamino)ethyl]-3-thiophene methanol
+US5023269_0004	T	T33	M 3616 3629	ethyl acetate
+US5023269_0004	T	T34	M 3630 3638	methanol
+US5023269_0004	T	T35	M 3817 3880	N-Methyl-3-(1-naphthalenyloxy)-3-(3-thienyl)propanamine oxalate
+US5023269_0004	T	T36	M 3954 4013	N,N-dimethyl-3-(1-naphthalenyloxy)-3-(3-thienyl)propanamine
+US5023269_0004	T	T37	M 4036 4049	ethyl acetate
+US5023269_0004	T	T38	M 4050 4058	methanol
+US5023269_0004	T	T39	M 4238 4314	N,N-Dimethyl-3-(4-chloro-1-naphthalenyloxy)-3-(2-thienyl)propanamine oxalate
+US5023269_0004	T	T40	M 4339 4358	4-chloro-1-naphthol
+US5023269_0004	T	T41	M 4379 4425	α-2-(dimetlylamino)ethyl]-2-thiophene methanol
+US5023269_0004	T	T42	M 4446 4464	triphenylphosphine
+US5023269_0004	T	T43	M 4497 4512	tetrahydrofuran
+US5023269_0004	T	T44	M 4572 4595	diethylazodicarboxylate
+US5023269_0004	T	T45	M 4854 4859	water
+US5023269_0004	T	T46	M 4897 4913	sodium hydroxide
+US5023269_0004	T	T47	M 4946 4959	diethyl ether
+US5023269_0004	T	T48	M 5003 5008	water
+US5023269_0004	T	T49	M 5034 5048	sodium sulfate
+US5023269_0004	T	T50	M 5069 5082	diethyl ether
+US5023269_0004	T	T51	M 5148 5166	methylene chloride
+US5023269_0004	T	T52	M 5167 5175	methanol
+US5023269_0004	T	T53	M 5257 5264	oxalate
+US5023269_0004	T	T54	M 5323 5336	ethyl acetate
+US5023269_0004	T	T55	M 5368 5379	oxalic acid
+US5023269_0004	T	T56	M 5431 5438	ethanol
+US5023269_0004	T	T57	M 5608 5680	N-Methyl-3-(4-chloro-1-naphthalenyloxy)-3-(2-thienyl)propanamine oxalate
+US5023269_0004	T	T58	M 5706 5774	N,N-dimethyl-3-(4-chloro-1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0004	T	T59	M 5808 5815	toluene
+US5023269_0004	T	T60	M 5852 5880	trichloroethyl chloroformate
+US5023269_0004	T	T61	M 6050 6061	formic acid
+US5023269_0004	T	T62	M 6085 6098	triethylamine
+US5023269_0004	T	T63	M 6188 6193	water
+US5023269_0004	T	T64	M 6239 6252	diethyl ether
+US5023269_0004	T	T65	M 6317 6332	sodium chloride
+US5023269_0004	T	T66	M 6348 6365	hydrochloric acid
+US5023269_0004	T	T67	M 6391 6406	sodium chloride
+US5023269_0004	T	T68	M 6460 6474	sodium sulfate
+US5023269_0004	T	T69	M 6572 6581	carbamate
+US5023269_0004	T	T70	M 6620 6629	carbamate
+US5023269_0004	T	T71	M 6662 6673	formic acid
+US5023269_0004	T	T72	M 7049 7054	water
+US5023269_0004	T	T73	M 7108 7126	ammonium hydroxide
+US5023269_0004	T	T74	M 7151 7164	diethyl ether
+US5023269_0004	T	T75	M 7204 7209	water
+US5023269_0004	T	T76	M 7234 7249	sodium chloride
+US5023269_0004	T	T77	M 7303 7317	sodium sulfate
+US5023269_0004	T	T78	M 7425 7443	methylene chloride
+US5023269_0004	T	T79	M 7444 7452	methanol
+US5023269_0004	T	T80	M 7453 7471	ammonium hydroxide
+US5023269_0004	T	T81	M 7566 7573	oxalate
+US5023269_0004	T	T82	M 7626 7639	ethyl acetate
+US5023269_0004	T	T83	M 7671 7682	oxalic acid
+US5023269_0004	T	T84	M 7732 7740	methanol
+US5023269_0004	T	T85	M 7910 7986	N,N-Dimethyl-3-(4-methyl-1-naphthalenyloxy)-3-(2-thienyl)propanamine oxalate
+US5023269_0004	T	T86	M 7987 8063	N,N-Dimethyl-3-(4-methyl-1-naphthalenyloxy)-3-(2-thienyl)propanamine oxalate
+US5023269_0004	T	T87	M 8144 8151	oxalate
+US5023269_0004	T	T88	M 8188 8195	ethanol
+US5023269_0004	T	T89	M 8385 8457	N-Methyl-3-(4-methyl-1-naphthalenyloxy)-3-(2-thienyl)propanamine maleate
+US5023269_0004	T	T90	B 6644 6647	DMF
+US5023269_0004	T	T91	F 24 37	C22 H25 NO5 S
+US5023269_0004	T	T92	F 498 512	C9 H13 Cl2 NOS
+US5023269_0004	T	T93	F 899 911	C9 H14 ClNOS
+US5023269_0004	T	T94	F 1475 1490	C21 H22 ClNO5 S
+US5023269_0004	T	T95	F 1941 1957	C22 H22 F3 NO5 S
+US5023269_0004	T	T96	F 2425 2441	C20 H20 F3 NO5 S
+US5023269_0004	T	T97	F 2880 2892	C9 H14 ClNOS
+US5023269_0004	T	T98	F 3722 3735	C21 H23 NO5 S
+US5023269_0004	T	T99	F 4142 4155	C20 H21 NO5 S
+US5023269_0004	T	T100	F 5510 5525	C21 H22 ClNO5 S
+US5023269_0004	T	T101	F 7812 7827	C20 H20 ClNO5 S
+US5023269_0004	T	T102	F 8289 8302	C22 H25 NO5 S
+US5023269_0004	T	T103	G 840 847	hexanes
+US5023269_0004	T	T104	G 6572 6581	carbamate
+US5023269_0004	T	T105	G 6620 6629	carbamate
+US5023269_0005	T	T1	M 174 187	ethyl acetate
+US5023269_0005	T	T2	M 219 230	maleic acid
+US5023269_0005	T	T3	M 282 289	ethanol
+US5023269_0005	T	T4	M 567 634	(+)-N-Methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine maleate
+US5023269_0005	T	T5	M 693 701	methanol
+US5023269_0005	T	T6	M 841 903	N-Methyl-3-(1-naphthalenyloxy)-3-cyclohexylpropanamine oxalate
+US5023269_0005	T	T7	M 1043 1108	N-Methyl-3-(1-naphthalenyloxy)-3-(2-thiazolyl)propanamine oxalate
+US5023269_0005	T	T8	M 1252 1327	N,N-Dimethyl-3-[4-(trifluoromethyl)phenoxy]-3-(2-furanyl)propanamineoxalate
+US5023269_0005	T	T9	M 1474 1552	N,N-Dimethyl-3-[4-(trifluoromethyl)phenoxy]-3-(-22-thienyl)propanamine oxalate
+US5023269_0005	T	T10	M 1699 1774	N,N-Dimethyl-3-[4-(trifluoromethyl)phenoxy]-3-(3-thienyl)propanamineoxalate
+US5023269_0005	T	T11	M 1916 1987	N-Methyl-3-[4-(trifluoromethyl)phenoxy-3-(2-thienyl)propanamine oxalate
+US5023269_0005	T	T12	M 2137 2205	N,N-Dimethyl-3-[4-(trifluoromethyl)phenoxy]-3-(2-furanyl)propanamine
+US5023269_0005	T	T13	M 2332 2404	N-Methyl-3-[4-(trifluoromethyl)phenoxy]-3-(3-thienyl)propanamine oxalate
+US5023269_0005	T	T14	M 2549 2621	N-Methyl-3-[4-(trifluoromethyl)phenoxy]-3-(2-furanyl)propanamine oxalate
+US5023269_0005	T	T15	M 2771 2836	N,N-Dimethyl-3-(4-methylphenoxy)-3-(2-thienyl)propanamine oxalate
+US5023269_0005	T	T16	M 2982 3047	N,N-Dimethyl-3-(4-chlorophenoxy)-3-(2-thienyl)propanamine oxalate
+US5023269_0005	T	T17	M 3191 3252	N-Methyl-3-(4-methylphenoxy)-3-(2-thienyl)propanamine oxalate
+US5023269_0005	T	T18	M 3393 3454	N-Methyl-3-(4-chlorophenoxy)-3-(2-thienyl)propanamine oxalate
+US5023269_0005	T	T19	F 361 374	C32 H25 NO5 S
+US5023269_0005	T	T20	F 727 740	C22 H23 NO5 S
+US5023269_0005	T	T21	F 949 960	C22 H29 NO5
+US5023269_0005	T	T22	F 1154 1169	C19 H20 N2 O5 S
+US5023269_0005	T	T23	F 1378 1392	C18 H20 F3 NO6
+US5023269_0005	T	T24	F 1600 1616	C18 H20 F3 NO5 S
+US5023269_0005	T	T25	F 1817 1833	C18 H20 F3 NO5 S
+US5023269_0005	T	T26	F 2235 2249	C16 H18 F3 NO2
+US5023269_0005	T	T27	F 2450 2466	C17 H18 F3 NO5 S
+US5023269_0005	T	T28	F 2674 2688	C17 H18 F3 NO6
+US5023269_0005	T	T29	F 2886 2899	C18 H23 NO5 S
+US5023269_0005	T	T30	F 3093 3108	C17 H20 ClNO5 S
+US5023269_0005	T	T31	F 3298 3311	C17 H21 NO5 S
+US5023269_0005	T	T32	F 3500 3515	C16 H18 ClNO5 S
+US5023269_0006	T	T1	M 0 62	N-Methyl-3-(4-methoxyphenoxy)-3-(2-thienyl)propanamine oxalate
+US5023269_0006	T	T2	M 204 269	N,N-Dimethyl-3-(4-methoxyphenoxy)-3-(2thienyl)propanamine oxalate
+US5023269_0006	T	T3	M 413 479	N,N-Dimethyl-3-(1-naphthalenyloxy)-3-(2furanyl)propanamine oxalate
+US5023269_0006	T	T4	M 621 684	N-Methyl-3-(1-naphthalenyloxy)-3-(2-furanyl)propanamine oxalate
+US5023269_0006	T	T5	M 824 892	N,N-Dimethyl-3-(1-naphthalenyloxy)-3-(2thiazolyl)propanamine oxalate
+US5023269_0006	T	T6	M 1041 1109	N,N-Dimethyl-3-(1-naphthalenyloxy)-3-(cyclohexyl)propanamine oxalate
+US5023269_0006	T	T7	M 1249 1321	N-Methyl-3-[4-(trifluoromethyl)phenoxy]-3(cyclohexyl)propanamine oxalate
+US5023269_0006	T	T8	M 1464 1541	N,N-Dimethyl-3-[4-(trifluoromethyl)phenoxy]-3-(cyclohexyl)propanamine oxalate
+US5023269_0006	T	T9	M 1684 1746	N-Methyl-3-(-naphthalenyloxy)-3-(3-pyridyl)propanamine oxalate
+US5023269_0006	T	T10	M 1884 1951	N,N-Dimethyl-3-(1-naphthalenyloxy)-3-(3-pyridyl)propanamine oxalate
+US5023269_0006	T	T11	M 2093 2160	(+)-N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine oxalate
+US5023269_0006	T	T12	M 2302 2369	(-)-N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine oxalate
+US5023269_0006	T	T13	M 5982 6004	3 H-5hydroxytryptamine
+US5023269_0006	T	T14	M 7285 7294	serotonin
+US5023269_0006	T	T15	D 2590 2599	serotonin
+US5023269_0006	T	T16	D 2683 2692	serotonin
+US5023269_0006	T	T17	D 2794 2803	serotonin
+US5023269_0006	T	T18	D 2946 2960	norepinephrine
+US5023269_0006	T	T19	D 3039 3053	norepinephrine
+US5023269_0006	T	T20	D 3155 3169	norepinephrine
+US5023269_0006	T	T21	D 3383 3392	serotonin
+US5023269_0006	T	T22	D 3396 3410	norepinephrine
+US5023269_0006	T	T23	D 3945 3954	serotonin
+US5023269_0006	T	T24	D 3964 3978	norepinephrine
+US5023269_0006	T	T25	D 4134 4143	serotonin
+US5023269_0006	T	T26	D 4148 4162	norepinephrine
+US5023269_0006	T	T27	D 5066 5075	serotonin
+US5023269_0006	T	T28	D 5080 5094	norepinephrine
+US5023269_0006	T	T29	D 5247 5256	serotonin
+US5023269_0006	T	T30	D 5261 5275	norepinephrine
+US5023269_0006	T	T31	D 5691 5698	sucrose
+US5023269_0006	T	T32	D 5709 5716	glucose
+US5023269_0006	T	T33	D 5968 5981	3 H-serotonin
+US5023269_0006	T	T34	D 6019 6040	14 C-l-norepinephrine
+US5023269_0006	T	T35	D 6225 6232	glucose
+US5023269_0006	T	T36	D 6241 6251	iproniazid
+US5023269_0006	T	T37	D 6258 6271	ascorbic acid
+US5023269_0006	T	T38	D 6562 6568	saline
+US5023269_0006	T	T39	D 7285 7294	serotonin
+US5023269_0006	T	T40	D 7304 7318	norepinephrine
+US5023269_0006	T	T41	D 7546 7560	NOREPINEPHRINE
+US5023269_0006	T	T42	B 6006 6013	3 H-5HT
+US5023269_0006	T	T43	B 6042 6049	14 C-NE
+US5023269_0006	T	T44	B 6281 6285	EDTA
+US5023269_0006	T	T45	B 6295 6300	H-5HT
+US5023269_0006	T	T46	B 6312 6319	14 C-NE
+US5023269_0006	T	T47	B 6777 6784	3 H-5HT
+US5023269_0006	T	T48	B 6789 6796	14 C-NE
+US5023269_0006	T	T49	B 7296 7299	5HT
+US5023269_0006	T	T50	B 7538 7541	5HT
+US5023269_0006	T	T51	B 7642 7645	5HT
+US5023269_0006	T	T52	F 108 121	C17 H21 NO6 S
+US5023269_0006	T	T53	F 317 330	C18 H23 NO6 S
+US5023269_0006	T	T54	F 527 538	C21 H23 NO6
+US5023269_0006	T	T55	F 730 741	C20 H21 NO6
+US5023269_0006	T	T56	F 943 958	C20 H22 N2 O5 S
+US5023269_0006	T	T57	F 1155 1166	C23 H31 NO5
+US5023269_0006	T	T58	F 1367 1381	C19 H26 F3 NO5
+US5023269_0006	T	T59	F 1587 1601	C20 H28 F3 NO5
+US5023269_0006	T	T60	F 1788 1801	C21 H22 N2 O5
+US5023269_0006	T	T61	F 1997 2010	C22 H24 N2 O5
+US5023269_0006	T	T62	F 2206 2219	C20 H21 NO5 S
+US5023269_0006	T	T63	Disease 4863 4870	obesity
+US5023269_0006	T	T64	Disease 4872 4882	depression
+US5023269_0006	T	T65	Disease 4884 4894	alcoholism
+US5023269_0006	T	T66	Disease 4896 4900	pain
+US5023269_0006	T	T67	Disease 4902 4916	loss of memory
+US5023269_0006	T	T68	Disease 4918 4925	anxiety
+US5023269_0006	T	T69	Disease 4930 4937	smoking
+US5023269_0006	T	T70	MOA 2565 2599	inhibiting the uptake of serotonin
+US5023269_0006	T	T71	MOA 2672 2699	inhibiting serotonin uptake
+US5023269_0006	T	T72	MOA 2924 2960	inhibit the uptake of norepinephrine
+US5023269_0006	T	T73	MOA 3028 3060	inhibiting norepinephrine uptake
+US5023269_0006	T	T74	MOA 3372 3417	inhibiting serotonin or norepinephrine uptake
+US5023269_0006	T	T75	MOA 3914 3977	inhibit the uptake of not only serotonin but also norepinephrin
+US5023269_0006	T	T76	MOA 4113 4186	inhibiting effect of serotonin and norepinephrine uptake inhibiting effec
+US5023269_0006	T	T77	MOA 5055 5094	inhibiting serotonin and norepinephrine
+US5023269_0006	T	T78	MOA 7524 7567	INHIBITION OF 5HT AND NOREPINEPHRINE UPTAKE
+US5023269_0007	T	T1	M 0 7	oxalate
+US5023269_0007	T	T2	M 41 48	oxalate
+US5023269_0007	T	T3	M 89 96	oxalate
+US5023269_0007	T	T4	M 134 141	oxalate
+US5023269_0007	T	T5	M 180 187	oxalate
+US5023269_0007	T	T6	M 225 232	oxalate
+US5023269_0007	T	T7	M 269 276	oxalate
+US5023269_0007	T	T8	M 315 322	oxalate
+US5023269_0007	T	T9	M 358 365	oxalate
+US5023269_0008	T	T1	M 28 35	oxalate
+US5023269_0008	T	T2	M 73 80	oxalate
+US5023269_0008	T	T3	M 118 125	oxalate
+US5023269_0008	T	T4	M 163 170	maleate
+US5023269_0008	T	T5	M 206 213	oxalate
+US5023269_0008	T	T6	M 250 257	oxalate
+US5023269_0008	T	T7	M 296 303	oxalate
+US5023269_0008	T	T8	M 343 350	oxalate
+US5023269_0009	T	T1	M 0 7	oxalate
+US5023269_0009	T	T2	M 46 53	oxalate
+US5023269_0009	T	T3	M 131 138	oxalate
+US5023269_0009	T	T4	M 177 184	oxalate
+US5023269_0009	T	T5	M 224 231	oxalate
+US5023269_0009	T	T6	M 271 278	oxalate
+US5023269_0009	T	T7	M 316 323	oxalate
+US5023269_0009	T	T8	M 360 367	oxalate
+US5023269_0010	T	T1	M 26 33	oxalate
+US5023269_0010	T	T2	M 72 79	oxalate
+US5023269_0010	T	T3	M 120 127	oxalate
+US5023269_0010	T	T4	M 163 170	oxalate
+US5023269_0010	T	T5	M 210 217	oxalate
+US5023269_0010	T	T6	M 256 263	oxalate
+US5023269_0010	T	T7	M 302 309	oxalate
+US5023269_0010	T	T8	M 348 355	oxalate
+US5023269_0011	T	T1	M 47 54	oxalate
+US5023269_0011	T	T2	M 92 99	oxalate
+US5023269_0011	T	T3	M 137 144	oxalate
+US5023269_0011	T	T4	M 1563 1580	calcium phosphate
+US5023269_0011	T	T5	M 1614 1630	calcium silicate
+US5023269_0011	T	T6	M 1766 1784	magnesium stearate
+US5023269_0011	T	T7	M 2982 3017	(+)-N-methyl-3-(1-naphthalenyloxy)-
+US5023269_0011	T	T8	M 3022 3054	3-(2-thienyl)propanamine maleate
+US5023269_0011	T	T9	M 3402 3439	N,N-dimethyl-3-(1-naphthalenyloxy)-3-
+US5023269_0011	T	T10	M 3444 3483	(5-chloro-2-thienyl)propanamine oxalate
+US5023269_0011	T	T11	D 1493 1500	lactose
+US5023269_0011	T	T12	D 1512 1519	sucrose
+US5023269_0011	T	T13	D 1531 1539	mannitol
+US5023269_0011	T	T14	G 1502 1510	dextrose
+US5023269_0011	T	T15	G 1521 1529	sorbitol
+US5023269_0011	T	T16	G 1551 1561	gum acacia
+US5023269_0011	T	T17	G 1593 1603	tragacanth
+US5023269_0011	T	T18	G 1605 1612	gelatin
+US5023269_0011	T	T19	G 1649 1658	cellulose
+US5023269_0011	T	T20	G 1682 1691	cellulose
+US5023269_0011	T	T21	G 1706 1722	methyl cellulose
+US5023269_0011	T	T22	G 1724 1758	methyl- and propylhydroxybenzoates
+US5023269_0011	T	T23	G 1760 1764	talc
+US5023269_0011	T	T24	G 1789 1800	mineral oil
+US5023269_0011	T	T25	G 3484 3493	cellulose
+US5023269_0012	T	T1	M 343 380	3-(1-naphthalenyloxy)-3-(2-thiazoyl)-
+US5023269_0012	T	T2	M 386 411	propanamine hydrochloride
+US5023269_0012	T	T3	M 412 419	ethanol
+US5023269_0012	T	T4	M 447 468	chlorodifluoromethane
+US5023269_0012	T	T5	M 556 563	ethanol
+US5023269_0012	T	T6	M 964 1003	N,N-dimethyl-3-[4-(trifluoromethyl)phen
+US5023269_0012	T	T7	M 1011 1048	oxy]-3-(3-thienyl)propanamine oxalate
+US5023269_0012	T	T8	M 1141 1146	water
+US5023269_0012	T	T9	M 1959 2003	N,N-dimethyl-3-[4-(trifluoromethyl)phenoxy]-
+US5023269_0012	T	T10	M 2007 2044	3-(2-furanyl)propanamine hydrobromide
+US5023269_0012	T	T11	M 2479 2512	N-methyl-3-(2-naphthalenyloxy)-3-
+US5023269_0012	T	T12	M 2520 2550	(2-thienyl)propanamine maleate
+US5023269_0012	T	T13	M 3048 3083	N,N-dimethyl-3-(4-chlorophenoxy)-3-
+US5023269_0012	T	T14	M 3090 3122	(2-thienyl)propanamine succinate
+US5023269_0012	T	T15	M 3174 3186	benzoic acid
+US5023269_0012	T	T16	M 3236 3241	water
+US5023269_0012	T	T17	M 3441 3453	benzoic acid
+US5023269_0012	T	T18	M 3510 3515	water
+US5023269_0012	T	T19	M 3553 3558	water
+US5023269_0012	T	T20	M 3713 3746	N-methyl-3-(1-naphthalenyloxy)-3-
+US5023269_0012	T	T21	M 3754 3793	(3-methyl-2-thienyl)propanamine acetate
+US5023269_0013	T	T1	M 924 979	N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0013	T	T2	M 1136 1203	(+)-N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine maleate
+US5023269_0013	T	T3	M 1884 1939	N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0013	T	T4	M 2047 2106	(+)-N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0013	T	T5	M 2522 2577	N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0013	T	T6	M 2685 2744	(+)-N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0013	T	T7	M 3064 3119	N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0013	T	T8	M 3227 3286	(+)-N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0013	T	T9	M 3599 3654	N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0013	T	T10	M 3762 3821	(+)-N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0013	T	T11	M 4135 4190	N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0013	T	T12	M 4298 4357	(+)-N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0013	T	T13	M 4710 4765	N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0013	T	T14	M 4873 4932	(+)-N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0013	T	T15	D 1715 1724	serotonin
+US5023269_0013	T	T16	D 2193 2207	norepinephrine
+US5023269_0013	T	T17	D 2309 2323	norepinephrine
+US5023269_0013	T	T18	Disease 2900 2910	depression
+US5023269_0013	T	T19	Disease 3370 3377	anxiety
+US5023269_0013	T	T20	Disease 3438 3445	anxiety
+US5023269_0013	T	T21	Disease 3974 3981	obesity
+US5023269_0013	T	T22	MOA 1593 1620	inhibiting serotonin uptake
+US5023269_0013	T	T23	MOA 2182 2214	inhibiting norepinephrine uptake
+US5023269_0014	T	T1	M 49 103	N-methyl-3-(1-naphthalenyloxy)-3-2-thienyl)propanamine
+US5023269_0014	T	T2	M 211 270	(+)-N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0014	T	T3	M 576 631	N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
+US5023269_0014	T	T4	M 744 803	(+)-N-methyl-3-(1-naphthalenyloxy)-3-(2-thienyl)propanamine
